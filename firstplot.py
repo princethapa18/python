@@ -1,3 +1,5 @@
+import tkinter
+
 # importing the required module 
 import matplotlib.pyplot as plt 
 
