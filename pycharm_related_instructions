@@ -1,0 +1,14 @@
+Week 15 Monday 5 April 2021
+
+set python interpreter for projects   /usr/bin/python3.6
+
+For setting python interpreter   ---> File --> Settings --> Projetct : <project name> --> Python Interpreter
+
+matplotlib is already installed for /usr/bin/python3.6
+
+for showing plots in pycharm
+
+https://stackoverflow.com/questions/56656777/userwarning-matplotlib-is-currently-using-agg-which-is-a-non-gui-backend-so
+
+yum install python3-tkinter
+
